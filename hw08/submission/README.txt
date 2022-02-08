@@ -1,0 +1,1 @@
+This is the worlds easiest game. Press ENTER to start on the Home Screen and press RETURN at any point to return to the home screen. Use the arrow keys to move up, down, left, and right. The the objective is to reach the black square and avoid the black rectangle/slab. Your final move count is displayed at the victory screen. Good luck bro. You won't need it. 
